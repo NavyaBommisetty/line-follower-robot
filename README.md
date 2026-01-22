@@ -60,6 +60,11 @@ Controlling DC motors using a motor driver
 Implementing simple decision-based navigation logic
 Understanding real-time behavior in robotics systems
 
+## Demo Video
+This video demonstrates the real-time working of the Line Follower Robot, including sensor-based path detection and motor control.
+[Watch the demo video](https://drive.google.com/file/d/1y7CvSoTJsBRXd5uoFCW2h_rM2D95XxDY/view?usp=sharing)
+
+
 Future Improvements:
 Add more IR sensors for better curve detection
 Implement PWM speed control
